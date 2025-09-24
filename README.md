@@ -70,4 +70,4 @@ Contributions are welcome! Please:
 [MIT License](LICENSE)
 
 ## Contact
-For questions or suggestions, open an issue or contact [your email or GitHub handle].
+For questions or suggestions, open an issue or contact fredrichbernard4126@gmail.com.
