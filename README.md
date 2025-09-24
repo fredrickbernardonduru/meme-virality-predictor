@@ -8,7 +8,7 @@ This project develops a regression model in PySpark to predict the viral potenti
 
 ## Repository Structure
 - **`codes/`**: Contains the Jupyter Notebook (`meme_virality_project.ipynb`) with the complete PySpark pipeline for data preprocessing, model training, and evaluation.
-- **`data/`**: Not included due to GitHub file size limits. Download the dataset (`meme_dataset.csv`) from [Google Drive link or other hosting service—insert your link here].
+- **`data/`**: Not included due to GitHub file size limits. Download the dataset (`meme_dataset.csv`) from Data/meme_datase.csv.
 - **`README.md`**: This file, providing project overview, setup instructions, and usage details.
 
 ## Setup Instructions
